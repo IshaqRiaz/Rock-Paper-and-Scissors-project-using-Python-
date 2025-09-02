@@ -1,0 +1,17 @@
+Rock, Paper, Scissors Game 🎮
+This is a simple Rock, Paper, Scissors game built in Python. The project uses basic programming concepts such as loops, conditions, and randomization to simulate the classic hand game between a user and the computer.
+Features ✨
+•	User can choose rock, paper, or scissors.
+•	Computer randomly selects one of the three choices.
+•	The game compares both choices and decides the winner.
+•	Keeps track of user score and computer score.
+•	Allows the user to quit anytime by pressing q.
+•	Handles invalid inputs gracefully.
+Concepts Used 🧑💻
+This project demonstrates fundamental Python concepts, including:
+•	while loops
+•	if-elif-else statements
+•	Logical operators
+•	Lists
+•	Random module (random.choice)
+•	Score tracking with variables
